@@ -41,6 +41,8 @@ img {
     width: 100%;
 }
 
+/* Navbar */
+
 @media (min-width: 992px) {
     .navbar {
         min-height: 100vh;
